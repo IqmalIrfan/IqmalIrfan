@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iqmal Irfan.</h1>
-<h3 align="center">I'm a Junior Full Stack Web Developer,ready at your service!</h3>
+<h3 align="center">I'm your Junior Full Stack Web Developer, ready at your service!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqmalirfan&label=Profile%20views&color=0e75b6&style=flat" alt="iqmalirfan" /> </p>
 
